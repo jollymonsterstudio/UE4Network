@@ -8,7 +8,6 @@ Each directory represents a project associated with a video and a tutorial page.
 
 ## Index
 ### [Network - Java REST API](https://github.com/jollymonsterstudio/UE4Network/tree/main/Network-Java-API)
-
 ### [Network - HTTP GET JSON Request Using REST API](https://github.com/jollymonsterstudio/UE4Network/tree/main/Network1)
 
 Hope this helps, Thanks.
